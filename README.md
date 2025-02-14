@@ -22,4 +22,4 @@ This project consists of:
 ## 📥 Installation  
 To run this project locally, clone the repository:  
 ```bash
-git clone 
+git clone https://github.com/Kanniyappan062005/Portfolio-simple-website.git
